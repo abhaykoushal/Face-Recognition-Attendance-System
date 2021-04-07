@@ -1,5 +1,5 @@
 # Face-Recognition-Attendance-System
-# Face Recognition Attendance System:
+
 A simple python script that recognizes faces and mark attendance for the recognized faces in an excel sheet.
 
 ## Motivation:
