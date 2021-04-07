@@ -6,7 +6,7 @@ from datetime import datetime
 
 
 
-path = 'ImagesAttendance'
+path = 'images'
 images = []
 classNames = []
 myList = os.listdir(path)
