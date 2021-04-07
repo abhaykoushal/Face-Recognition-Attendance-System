@@ -14,7 +14,7 @@ Reduce manual process errors by providing an automated and reliable attendance s
 * Identify faces
 * Store the details
 
-## Module Used:
+## Modules Used:
 ---------------------------
 The modules are the Latest Version
 * OpenCV
